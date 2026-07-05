@@ -1,4 +1,4 @@
-# 🚗 Used Car Price Prediction Engine
+# Used Car Price Prediction Engine
 
 [![Link Streamlit App](https://static.streamlit.io/badge_gradient.svg)](https://used-car-price-prediction-rosi.streamlit.app/)
 
